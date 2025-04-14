@@ -98,4 +98,4 @@ def set_manual():
     })
 
 if __name__ == '__main__':
-    app.run(port=2041, debug=True)
+    app.run(port=10004, debug=True)
