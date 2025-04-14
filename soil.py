@@ -342,7 +342,7 @@ soil_adjustment_factors = {
 
 # Function to fetch rainfall data from the API
 def fetch_rainfall_data():
-    api_url = "https://smart-irrigation-1.onrender.com/predict"
+    api_url = "https://smart-irrigation-1-1iac.onrender.com/predict"
     try:
         response = requests.get(api_url)
         
